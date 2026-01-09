@@ -10,6 +10,9 @@ Let's add your name to the Hall of Fame by creating a pull request (PR) to this 
 
 | [<img src="https://github.com/shunyatadano.png" width="50">](https://github.com/shunyatadano) | [**@shunyatadano**](https://github.com/shunyatadano) | I'm Shunya, interested in social navigation and playing football! |
 
+ 
+| [<img src="https://github.com/Shogo-git-hub.png" width="50">](https://github.com/Shogo-git-hub) | [**@Shogo-git-hub**](https://github.com/Shogo-git-hub) | I'm Shogo! |
+
 
 <!-- 
 | [<img src="https://github.com/your-username.png" width="50">](https://github.com/your-username) | [**@your-username**](https://github.com/your-username) | introduction (research or hobby) |
