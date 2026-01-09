@@ -12,7 +12,7 @@ Fork this repository to your own GitHub account, then follow the links below to 
 
 :two: [**git add & commit**](adding_committing/README.md): How to add files to the staging area and commit them to your local repository. **Most commonly used Git commands**
 
-:three: [**git pull & push**](3_pulling_and_pushing.md): How to pull changes from a remote repository and push your local commits to it.
+:three: [**git push & pull**](pushing_pulling/REAME.md): How to push your local commits to a remote repository and pull changes from a remote repository to your local repository.
 
 :four: [**git branch & checkout**](4_branching_and_checking_out.md): How to create and switch between branches in your repository.
 
